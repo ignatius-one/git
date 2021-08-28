@@ -6,6 +6,11 @@
 .opaco{
     position: relative;
 }
+footer{
+    width: 100%;
+    height: 50vh;
+    color: white;
+}
 .opaco::after{
     content: '';
     width: 100%;
